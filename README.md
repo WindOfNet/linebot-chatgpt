@@ -1,0 +1,8 @@
+# linebot-chatgpt
+
+env
+```
+LINE_CHANNEL_ACCESS_TOKEN=
+LINE_CHANNEL_SECRET=
+OPENAI_API_KEY=
+```
